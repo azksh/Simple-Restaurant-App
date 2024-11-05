@@ -1,0 +1,10 @@
+MUST READ!!!!!!!
+
+Website Link : https://momomisoid.com/
+
+Petunjuk untuk mendaftarkan/registrasi admin :
+
+ - Untuk registrasi admin lakukan dengan menambahkan /setup.php setelah domain website
+   con : momomisoid.com/setup,php
+
+ - Ini dilakukan agar tidak sembarang orang dapat menjadi admin. Jadi dalam website tidak diberi button atau apapun untuk redirect ke register admin.
